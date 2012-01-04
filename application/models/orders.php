@@ -3,12 +3,13 @@ class Orders extends CI_Model{
 
 function __construct(){
                        parent::__construct();
-					$this->load->database();
+                    $this->load->database();
 }
 
 // Function to Insert New Order                       
 function new_order($user_id,$seller_id,$delivery_slot,$product_id){
 	$data=array('');
+        //A New Entry ;)
 }
 
 //function to modify status flag of any order
