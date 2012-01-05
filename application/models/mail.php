@@ -11,11 +11,7 @@
  * @author lucky
  */
 class Login extends CI_Model{
-        var $from='no-reply@grootmart.com';
-         
-     
-    
-    
+        var $from='no-reply@grootmart.com';    
     
     
 	function __construct(){
@@ -42,7 +38,7 @@ class Login extends CI_Model{
         //function to mail about order status
         function order_status_update_mail($param) {}
         
-        //function to 
+        //function to get the
         
             
     
