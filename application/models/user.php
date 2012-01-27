@@ -10,7 +10,7 @@
  *
  * @author lucky
  */
-class Login extends CI_Model {
+class User extends CI_Model {
 
     var $fname = NULL;
     var $mname = NULL;
