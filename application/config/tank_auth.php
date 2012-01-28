@@ -21,7 +21,7 @@ $config['webmaster_email'] = 'webmaster@your-site.com';
 */
 $config['phpass_hash_portable'] = TRUE;
 $config['phpass_hash_strength'] = 8;
-$config['anand_secret_hash_key']='((!!^14^)*!*)*!*(03)$%@&(*&%1990';
+
 
 /*
 |--------------------------------------------------------------------------
